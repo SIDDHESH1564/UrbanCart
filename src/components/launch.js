@@ -1,3 +1,6 @@
+// If 'classNames' is not used, remove the import
+// import classNames from 'classnames';
+
 import { Link } from "react-router-dom";
 
 const callouts = [
