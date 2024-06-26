@@ -1,5 +1,3 @@
-// If 'classNames' is not used, remove the import
-// import classNames from 'classnames';
 
 import { Link } from "react-router-dom";
 
@@ -102,12 +100,12 @@ export default function Launch() {
                       </div>
                     </div>
                   </div>
-                  <a
+                  <button
                     href="#"
                     className="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700"
                   >
                     Shop Collection
-                  </a>
+                  </button>
                 </div>
               </div>
             </div>

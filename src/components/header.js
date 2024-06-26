@@ -1,6 +1,6 @@
+import React from 'react';
 import { useState } from 'react';
 import {
-  Button,
   Dialog,
   DialogPanel,
   PopoverGroup,
@@ -12,9 +12,6 @@ import {
 } from '@heroicons/react/24/outline';
 import { Link } from 'react-router-dom';
 
-function classNames(...classes) {
-  return classes.filter(Boolean).join(' ');
-}
 
 export default function Header({ setCartOpen }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
