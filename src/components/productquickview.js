@@ -51,7 +51,7 @@ export default function ViewProduct() {
     useEffect(() => {
         const fetchProduct = async () => {
             try {
-                const response = await axios.get(`http://localhost:5000/api/${categoryId}/${productId}`);
+                const response = await axios.get(`https://ecommerce-backend-six-silk.vercel.app/api/${categoryId}/${productId}`);
                 const productData = response.data;
 
                 setProduct(productData);

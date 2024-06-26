@@ -10,7 +10,7 @@ const Item = () => {
     // Fetch products based on the category from your backend
     const fetchProducts = async () => {
       try {
-        const response = await axios.get(`http://localhost:5000/api/${category}`);
+        const response = await axios.get(`https://ecommerce-backend-six-silk.vercel.app/api/${category}`);
         setProducts(response.data);
       } catch (error) {
         console.error('Error fetching products:', error);
