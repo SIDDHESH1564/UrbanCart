@@ -8,16 +8,16 @@ export default function Footer() {
             <h2 className="title-font font-medium text-black tracking-widest text-sm mb-3">Categories</h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-400 hover:text-black">Men's Clothing</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Men's Clothing</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Women's Clothing</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Women's Clothing</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Kid's Clothing</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Kid's Clothing</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Accessories</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Accessories</a>
               </li>
             </nav>
           </div>
@@ -25,16 +25,16 @@ export default function Footer() {
             <h2 className="title-font font-medium text-black tracking-widest text-sm mb-3">Fashion</h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-400 hover:text-black">Shoes</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Shoes</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Bags</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Bags</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Jewelry</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Jewelry</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Beauty</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Beauty</a>
               </li>
             </nav>
           </div>
@@ -42,16 +42,16 @@ export default function Footer() {
             <h2 className="title-font font-medium text-black tracking-widest text-sm mb-3">Home & Lifestyle</h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-400 hover:text-black">Electronics</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Electronics</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Home Decor</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Home Decor</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Sports</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Sports</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Books</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Books</a>
               </li>
             </nav>
           </div>
@@ -59,16 +59,16 @@ export default function Footer() {
             <h2 className="title-font font-medium text-black tracking-widest text-sm mb-3">Health & Entertainment</h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="text-gray-400 hover:text-black">Health & Wellness</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Health & Wellness</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Toys & Games</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Toys & Games</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Automotive</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Automotive</a>
               </li>
               <li>
-                <a className="text-gray-400 hover:text-black">Pet Supplies</a>
+                <a href="/valid-path" className="text-gray-400 hover:text-black">Pet Supplies</a>
               </li>
             </nav>
           </div>
