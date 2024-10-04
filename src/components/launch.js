@@ -52,13 +52,13 @@ export default function Launch() {
                         <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                           <div className="h-84 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
                             <img
-                              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg"
+                              src="https://d2line.com/thatlook/wp-content/uploads/sites/4/2022/09/women-fashion-and-women-clothing.png"
                               alt=""
                               className="h-full w-full object-cover object-center" />
                           </div>
                           <div className="h-64 w-44 overflow-hidden rounded-lg">
                             <img
-                              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg"
+                              src="https://i.pinimg.com/originals/50/4f/06/504f065933bdae63d212bbc07a14c841.jpg"
                               alt=""
                               className="h-full w-full object-cover object-center" />
                           </div>
@@ -72,13 +72,13 @@ export default function Launch() {
                           </div>
                           <div className="h-64 w-44 overflow-hidden rounded-lg">
                             <img
-                              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg"
+                              src="https://menscraze.com/wp-content/uploads/2016/05/David-Gandy-Style.jpg"
                               alt=""
                               className="h-full w-full object-cover object-center" />
                           </div>
                           <div className="h-64 w-44 overflow-hidden rounded-lg">
                             <img
-                              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
+                              src="https://img.kwcdn.com/product/1d14c6c0898/1b576962-e2c9-4536-8eae-b8275638ad35_1339x1785.jpeg.a.jpg"
                               alt=""
                               className="h-full w-full object-cover object-center" />
                           </div>
@@ -86,13 +86,13 @@ export default function Launch() {
                         <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                           <div className="h-64 w-44 overflow-hidden rounded-lg">
                             <img
-                              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg"
+                              src="https://i.pinimg.com/736x/8c/ad/96/8cad961275d5db4801a51da0b6c8748d--clothes-for-women-best-designers.jpg"
                               alt=""
                               className="h-full w-full object-cover object-center" />
                           </div>
                           <div className="h-64 w-44 overflow-hidden rounded-lg">
                             <img
-                              src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg"
+                              src="https://i.pinimg.com/originals/25/7f/a2/257fa295a43fc66db683a469051ad31c.png"
                               alt=""
                               className="h-full w-full object-cover object-center" />
                           </div>
